@@ -1,1 +1,1 @@
-["Student_ID", "Age", "Gender", "Family_Income", "Internet_Access", "Study_Hours_per_Day", "Attendance_Rate", "Assignment_Delay_Days", "Travel_Time_Minutes", "Part_Time_Job", "Scholarship", "Stress_Index", "GPA", "Semester_GPA", "CGPA", "Semester", "Department", "Parental_Education"]
+["Age", "Gender", "Family_Income", "Internet_Access", "Study_Hours_per_Day", "Attendance_Rate", "Assignment_Delay_Days", "Travel_Time_Minutes", "Part_Time_Job", "Scholarship", "Stress_Index", "GPA", "Semester_GPA", "CGPA", "Semester", "Department", "Parental_Education"]

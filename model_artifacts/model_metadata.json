@@ -1,9 +1,8 @@
 {
   "model_type": "RandomForestClassifier",
-  "accuracy": 0.7965,
-  "n_features": 18,
+  "accuracy": 0.801,
+  "n_features": 17,
   "feature_names": [
-    "Student_ID",
     "Age",
     "Gender",
     "Family_Income",
