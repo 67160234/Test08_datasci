@@ -1,0 +1,31 @@
+{
+  "model_type": "RandomForestClassifier",
+  "accuracy": 0.7965,
+  "n_features": 18,
+  "feature_names": [
+    "Student_ID",
+    "Age",
+    "Gender",
+    "Family_Income",
+    "Internet_Access",
+    "Study_Hours_per_Day",
+    "Attendance_Rate",
+    "Assignment_Delay_Days",
+    "Travel_Time_Minutes",
+    "Part_Time_Job",
+    "Scholarship",
+    "Stress_Index",
+    "GPA",
+    "Semester_GPA",
+    "CGPA",
+    "Semester",
+    "Department",
+    "Parental_Education"
+  ],
+  "target_names": [
+    "ไม่ลาออก (0)",
+    "ลาออก (1)"
+  ],
+  "training_samples": 8000,
+  "test_samples": 2000
+}
